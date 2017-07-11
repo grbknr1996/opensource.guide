@@ -29,7 +29,7 @@ Why do people contribute to open source? Plenty of reasons!
 
 ### Improve existing skills
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.In any kind of development of software or hardware or anything in this world require several years of research after which it comes to the endproduct, just like that it is several person working on a single peice of code to make it better , efficient and more reliable
 
 ### Meet people who are interested in similar things
 
